@@ -130,10 +130,11 @@ E é justamente para registrar esse caminho que existe a:
 
 # 🖼️ Galeria-2048
 
-<!-- Substituir pelo endereço real do logo hospedado no site -->
 <p align="center">
   <a href="https://www.galeria-2048.com.br/">
-    <img src="URL_DO_LOGO_DA_GALERIA_2048" alt="Galeria-2048" height="100">
+    <img src="./assets/favicon.svg"
+         alt="Galeria-2048"
+         width="200">
   </a>
 </p>
 
